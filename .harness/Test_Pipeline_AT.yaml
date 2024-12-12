@@ -36,4 +36,4 @@ pipeline:
                   identifier: Run_1
                   spec:
                     shell: Sh
-                    command: echo "Welcome to Harness CI"
+                    command: echo "Welcome to Harness CI1"
